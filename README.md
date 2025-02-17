@@ -1,1 +1,1 @@
-# RPS-game
+# RPS-game (rock,paper,scissor)
